@@ -24,7 +24,7 @@ Here are some of my notable projects:
 - [Reddit Image Scraper](https://github.com/Caipo/Reddit-Scraper): Used to rip 40,000 Images off reddit to create a data set.
 - [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.
 - [Tinfoil Chat](https://github.com/Caipo/Tinfoil-Chat): Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
-- [Rent Automator]([https://github.com/Caipo/Tinfoil-Chat](https://github.com/Caipo/Utilities-Automator): An automated web scraper that gets utillites bill from diffrent site and calculates rent then emails the cost to the tennets. This was built for my old landlord and good friend.
+- [Rent Automator](https://github.com/Caipo/Utilities-Automator): An automated web scraper that gets utillites bill from diffrent site and calculates rent then emails the cost to the tennets. This was built for my old landlord and good friend.
 - [Terrorism Analysis][https://github.com/Caipo/Tinfoil-Chat](https://github.com/Caipo/Terrorism): Data analysis of the START global terrorism database useing juypter notebook, Tableau and map box.
 - [Covid Tracker](https://github.com/Caipo/Covid-Tracker): Right when covid was taking off I made a python file to scrape wikipedia for the amount of covid cases (when it was still just in china), make a scatter plot, graph a best fit line (Exponitial Linear Regression) then make a 10 day prediction. Using this code I made the geuss the school would be online before classes finish of which I was right.
 
