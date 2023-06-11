@@ -27,8 +27,6 @@ Here are some of my notable projects:
 
 - [Tinfoil Chat](https://github.com/Caipo/Tinfoil-Chat): Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
 
-(https://camo.githubusercontent.com/36f103b60133d7fafcc93778c21242fe85145b87cc0da07de0c60d5928abb9a4/68747470733a2f2f692e696d6775722e636f6d2f79417631596e782e706e67)
-
 - [Rent Automator](https://github.com/Caipo/Utilities-Automator): An automated web scraper that gets utillites bill from diffrent site and calculates rent then emails the cost to the tennets. This was built for my old landlord and good friend.
 
 - [Terrorism Analysis](https://github.com/Caipo/Terrorism): Data analysis of the START global terrorism database useing juypter notebook, Tableau and map box.
