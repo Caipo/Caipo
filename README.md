@@ -56,8 +56,7 @@ Gists that may intrest you
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [@YourTwitterHandle]
+- LinkedIn: [https://www.linkedin.com/in/nicholas-demetrick/]
 - Personal Website/Blog: [Your Website/Blog URL]
 - Email: [Your Email Address]
 
