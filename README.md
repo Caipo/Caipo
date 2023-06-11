@@ -56,9 +56,9 @@ Gists that may intrest you
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/nicholas-demetrick/]
+- LinkedIn: https://www.linkedin.com/in/nicholas-demetrick/
 - Personal Website/Blog: [Your Website/Blog URL]
-- Email: [Your Email Address]
+- Email: nicholas.scott.demetrick@gmail.com
 
 I'm always open to interesting collaborations, discussions, and opportunities, so feel free to reach out!
 
