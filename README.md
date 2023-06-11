@@ -44,15 +44,15 @@ Gists that may intrest you
 
 - [Hangman](https://gist.github.com/Caipo/b5d1ac0566eb6f034ef69a5e9418e112): A school project using java that Ive made.
 
--[Prime sieve](https://gist.github.com/Caipo/f2d4f40a4b795ea90e4e8fbb55af0cc7): One of my first programs Ive made for no other reason then I wanted to make something Intresting. This combined my love of programing with my love of math which inspired manny other programs.
+- [Prime sieve](https://gist.github.com/Caipo/f2d4f40a4b795ea90e4e8fbb55af0cc7): One of my first programs Ive made for no other reason then I wanted to make something Intresting. This combined my love of programing with my love of math which inspired manny other programs.
 
--[BattleShip Algorithem](https://gist.github.com/Caipo/31ecf6a41f142088119769a390bda6d8): Our class had a competition on who could make the best battleship algorthim. I Got so close to getting first but another student was just a little better then me. Somthing Im still salty about to this day. 
+- [BattleShip Algorithem](https://gist.github.com/Caipo/31ecf6a41f142088119769a390bda6d8): Our class had a competition on who could make the best battleship algorthim. I Got so close to getting first but another student was just a little better then me. Somthing Im still salty about to this day. 
 
--[Covid II](https://gist.github.com/Caipo/ca3e26d77226f48f755b51cf3db36e0c): A project I made to visulise covid in BC becasue I couldent stop watching the news and I was stuck inside doing online classes.
+- [Covid II](https://gist.github.com/Caipo/ca3e26d77226f48f755b51cf3db36e0c): A project I made to visulise covid in BC becasue I couldent stop watching the news and I was stuck inside doing online classes.
 
--[Tire](https://gist.github.com/Caipo/bd6243a8904727501178c43fc0f5b56b): A coeworker I worked with had a side gig that he did where he would resell tires. I made this for him to webscrape all the sites he browsed and make an excel spread sheet. He didnt use it, but thats beside the point.
+- [Tire](https://gist.github.com/Caipo/bd6243a8904727501178c43fc0f5b56b): A coeworker I worked with had a side gig that he did where he would resell tires. I made this for him to webscrape all the sites he browsed and make an excel spread sheet. He didnt use it, but thats beside the point.
 
--[Calculus 4](https://gist.github.com/Caipo/9d5df1a3de13744bc254ad918f5538d3): A bad professor gave the class 70 tedious calculus 4 problems. This gave me a chip on my sholder so I made a python file to do the work for me and write it into latex. Would it be faster to just do the work ... yes but thats beside the point.
+- [Calculus 4](https://gist.github.com/Caipo/9d5df1a3de13744bc254ad918f5538d3): A bad professor gave the class 70 tedious calculus 4 problems. This gave me a chip on my sholder so I made a python file to do the work for me and write it into latex. Would it be faster to just do the work ... yes but thats beside the point.
 
 ## 📫 Let's Connect
 
