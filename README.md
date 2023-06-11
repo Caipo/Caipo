@@ -31,6 +31,9 @@ Here are some of my notable projects:
 
 
 
+
+
+
 - [Tinfoil Chat](https://github.com/Caipo/Tinfoil-Chat): Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
 
 
