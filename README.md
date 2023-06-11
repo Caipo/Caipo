@@ -27,11 +27,12 @@ Here are some of my notable projects:
 
 - [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.
 
-<img width="960" height= auto; alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
+<img width="200" height= auto; alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
 
 
 
 - [Tinfoil Chat](https://github.com/Caipo/Tinfoil-Chat): Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
+
 
 ![tinfoil](https://github.com/Caipo/Caipo/assets/67617907/823c5578-9312-486e-99d8-7682ecb57de8)
 
