@@ -1,3 +1,8 @@
+<style>
+  width: 200px;
+  height:auto;
+</style>
+
 <p align="center">
   <img src="https://your-profile-picture.png" alt="Your Name" width="200" height="200">
 </p>
@@ -25,7 +30,7 @@ Here are some of my notable projects:
 
 - [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.
 
-<img width="960" alt="tribes2" src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
+<img width="960" alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
 
 
 
