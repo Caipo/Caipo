@@ -1,6 +1,8 @@
 <style>
+  .scaled-image{
   width: 200px;
   height:auto;
+  }
 </style>
 
 <p align="center">
