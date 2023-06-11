@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about Python, Cryptography, Data an
 
 Here are some of my notable projects:
 
-- [Reddit Image Scraper](https://github.com/Caipo/Reddit-Scraper): Used to rip 40,000 Images off reddit to create a data set.
+- [Reddit Image Scraper](https://github.com/Caipo/Reddit-Scraper): Used to rip 40,000 Images off reddit to create a [dataset](https://www.kaggle.com/datasets/mrmonsterdino/reddit-meme-data-set).
 - [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.
 - [Tinfoil Chat](https://github.com/Caipo/Tinfoil-Chat): Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
 - [Rent Automator](https://github.com/Caipo/Utilities-Automator): An automated web scraper that gets utillites bill from diffrent site and calculates rent then emails the cost to the tennets. This was built for my old landlord and good friend.
