@@ -38,6 +38,7 @@ Here are some of my notable projects:
 
 
 - [Covid Tracker](https://github.com/Caipo/Covid-Tracker): Right when covid was taking off I made a python file to scrape wikipedia for the amount of covid cases (when it was still just in china), make a scatter plot, graph a best fit line (Exponitial Linear Regression) then make a 10 day prediction. Using this code I made the geuss the school would be online before classes finish of which I was right.
+![covid](https://github.com/Caipo/Caipo/assets/67617907/24086819-70a9-4a4b-8abc-d04d13213491)
 
 
 Gists that may intrest you 
