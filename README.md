@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="https://your-profile-picture.png" alt="Your Name" width="200" height="200">
-</p>
-
 # Hi there, I'm Nick! 👋
 
 Welcome to my GitHub profile! I'm passionate about Python, Cryptography, Data and Django. Here you'll find a collection of my projects, contributions, and explorations in the world of software development.
@@ -81,9 +75,9 @@ I'm always open to interesting collaborations, discussions, and opportunities, s
 
 ## ✨ Fun Facts
 
-- [Fun Fact 1]: Share an intriguing or surprising fact about yourself.
-- [Fun Fact 2]: Highlight another interesting aspect of your personality.
-- [Fun Fact 3]: Add one more fun fact to engage your readers.
+- [Fun Fact 1]: I am a power lifting enthusist.
+- [Fun Fact 2]: I play but suck at the chineses game of go.  You can see my progress here https://online-go.com/user/view/857688
+- [Fun Fact 3]: Did I mention I use arch linux.
 
 Thanks for stopping by and checking out my profile! Don't forget to star ⭐️ your favorite projects!
 
