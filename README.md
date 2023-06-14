@@ -19,7 +19,7 @@ Here are some of my notable projects:
 
 - [Reddit Image Scraper](https://github.com/Caipo/Reddit-Scraper): Used to rip 40,000 Images off reddit to create a [dataset](https://www.kaggle.com/datasets/mrmonsterdino/reddit-meme-data-set).
 
-- [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.
+- [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.  [site](www.tribesocial.app)
 
 <img width="1000" height= auto;  alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
 
@@ -67,16 +67,16 @@ Gists that may intrest you
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/nicholas-demetrick/
-- Personal Website/Blog: [Your Website/Blog URL](https://caipo.github.io/profile-page/  )
-- Email: nicholas.scott.demetrick@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nicholas-demetrick/)
+- [Personal Website](https://caipo.github.io/profile-page/)
+- Email: [nicholas.scott.demetrick@gmail.com](https://caipo.github.io/profile-page/)
 
 I'm always open to interesting collaborations, discussions, and opportunities, so feel free to reach out!
 
 ## ✨ Fun Facts
 
 - 1: I am a power lifting enthusist.
-- 2: I play but suck at the chineses game of go.  You can see my progress here https://online-go.com/user/view/857688
+- 2: I play but suck at the chineses game of go.  You can see my progress here [Online Go](https://online-go.com/user/view/857688)
 - 3: Did I mention I use arch linux.
 
 Thanks for stopping by and checking out my profile! Don't forget to star ⭐️ your favorite projects!
