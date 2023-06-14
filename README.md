@@ -68,16 +68,16 @@ Gists that may intrest you
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/nicholas-demetrick/
-- Personal Website/Blog: [Your Website/Blog URL]
+- Personal Website/Blog: [Your Website/Blog URL](https://caipo.github.io/profile-page/  )
 - Email: nicholas.scott.demetrick@gmail.com
 
 I'm always open to interesting collaborations, discussions, and opportunities, so feel free to reach out!
 
 ## ✨ Fun Facts
 
-- [Fun Fact 1]: I am a power lifting enthusist.
-- [Fun Fact 2]: I play but suck at the chineses game of go.  You can see my progress here https://online-go.com/user/view/857688
-- [Fun Fact 3]: Did I mention I use arch linux.
+- 1: I am a power lifting enthusist.
+- 2: I play but suck at the chineses game of go.  You can see my progress here https://online-go.com/user/view/857688
+- 3: Did I mention I use arch linux.
 
 Thanks for stopping by and checking out my profile! Don't forget to star ⭐️ your favorite projects!
 
