@@ -45,7 +45,7 @@ Here are some of my notable projects:
 ![covid](https://github.com/Caipo/Caipo/assets/67617907/24086819-70a9-4a4b-8abc-d04d13213491)
 
 
-- [Military-plane-detector](https://github.com/Caipo/Military-plane-detector): A simple project to detect military planes from satalight images.
+- [Military-plane-detector](https://github.com/Caipo/Military-plane-detector): A simple project to detect military planes from satalight images using yolo v8.
 ![planes](https://i.imgur.com/NL7eRCn.jpg)
 
 Gists that may intrest you 
