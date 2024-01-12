@@ -1,6 +1,6 @@
-# Hi there, I'm Nick! 👋
+# Welcome to my github.
 
-Welcome to my GitHub profile! I'm passionate about Python, Cryptography, Data and Django. Here you'll find a collection of my projects, contributions, and explorations in the world of software development.
+Heres where I publish my collection of random python projects. Theres a good varity, so hopfuly you find something you like. 
 
 ## 🚀 Skills and Technologies
 
