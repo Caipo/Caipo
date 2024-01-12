@@ -17,7 +17,7 @@ Heres where I publish my collection of random python projects. Theres a good var
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### IDEs and Tools 🛠:
-![Vim](https://img.shields.io/badge/Vim-F24E1E?style=for-the-badge&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-AAFF00?style=for-the-badge&logo=vim&logoColor=white)
 
 
 ### Others:
