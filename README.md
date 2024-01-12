@@ -26,7 +26,7 @@ Heres where I publish my collection of random python projects. Theres a good var
 ![Docker](https://img.shields.io/badge/Docker-33a2ff?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Others:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 💼 Work Experience
