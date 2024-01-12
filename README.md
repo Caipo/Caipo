@@ -2,6 +2,9 @@
 
 Heres where I publish my collection of random python projects. Theres a good varity, so hopfuly you find something you like. 
 
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=caipo&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
+
 ## 🚀 Skills and Technologies
 
 - Languages: R, Python, HTML, Java, Latex, Excel, SQL, Tableau, Linux
