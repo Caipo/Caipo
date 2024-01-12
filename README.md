@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I'm passionate about Python, Cryptography, Data an
 - Areas of Expertise: Math and Python.
 
 ## 💼 Work Experience
+- Super Geo AI: AI Intern
+- Betstamp: Software Internship.
 
-- Betstamp: Internship.
-
+## 🏫 Education:
+- UBC: Math degree
 
 ## 🌱 Projects
 
