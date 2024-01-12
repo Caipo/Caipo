@@ -52,7 +52,12 @@ Here are some of my notable projects:
 
 
 - [Unet](https://github.com/Caipo/Unet): A tensor flow implementation of the 2015 Unet paper for segmentation. More or less you can take an image from cvat and create a segmention model.
-  ![planes](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png)
+  
+<p align="center">
+<img width="600" height= auto; alt="tribes2" class = 'scaled-image' src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png">
+</p>
+
+  ![planes]()
 
 
 Gists that may intrest you 
