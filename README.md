@@ -23,7 +23,7 @@ Here are some of my notable projects:
 
 - [Tribe Social](https://github.com/Caipo/tribes): A django site that uses posgres Sql and websockets that makes a chat app with account functionality.  [site](www.tribesocial.app)
 
-<img width="750" height= auto;  margin=auto; alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
+<img width="600" height= auto; transform= translateX(-25%) translateY(-25%); alt="tribes2" class = 'scaled-image' src="https://github.com/Caipo/Caipo/assets/67617907/c358bd24-0f5e-453d-99ad-5af398f2f977">
 
 
 
