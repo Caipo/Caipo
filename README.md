@@ -104,7 +104,7 @@ Gists that may intrest you
 
 - [LinkedIn](https://www.linkedin.com/in/nicholas-demetrick/)
 - [Personal Website](https://caipo.github.io/profile-page/)
-- Email: [nicholas.scott.demetrick@gmail.com](https://caipo.github.io/profile-page/)
+- [nicholas.scott.demetrick@gmail.com](https://caipo.github.io/profile-page/)
 
 I'm always open to interesting collaborations, discussions, and opportunities, so feel free to reach out!
 
