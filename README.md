@@ -50,6 +50,11 @@ Here are some of my notable projects:
 - [Military-plane-detector](https://github.com/Caipo/Military-plane-detector): A simple project to detect military planes from satalight images using yolo v8.
 ![planes](https://i.imgur.com/NL7eRCn.jpg)
 
+
+- [Unet](https://github.com/Caipo/Unet): A tensor flow implementation of the 2015 Unet paper for segmentation. More or less you can take an image from cvat and create a segmention model.
+  ![planes](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png)
+
+
 Gists that may intrest you 
 
 - [Linerar Algebra Scripts](https://gist.github.com/Caipo/a4c82732688b8140c706f21aa63cb981): Some functions Ive made for my applyed linear algebra class that help me understand the concepts and double check my homework.
