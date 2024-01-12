@@ -77,9 +77,6 @@ Here are some of my notable projects:
 <img width="600" height= auto; alt="tribes2" class = 'scaled-image' src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png">
 </p>
 
-  ![planes]()
-
-
 Gists that may intrest you 
 
 - [Linerar Algebra Scripts](https://gist.github.com/Caipo/a4c82732688b8140c706f21aa63cb981): Some functions Ive made for my applyed linear algebra class that help me understand the concepts and double check my homework.
