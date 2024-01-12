@@ -7,6 +7,23 @@ Heres where I publish my collection of random python projects. Theres a good var
 
 ## 🚀 Skills and Technologies
 
+#### 🙊 - Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps ♾️:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### IDEs and Tools 🛠:
+![Cim](https://img.shields.io/badge/Vim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### Others:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 - Languages: R, Python, HTML, Java, Latex, Excel, SQL, Tableau, Linux
 - Frameworks and Libraries: Numpy, Sympy, Pandas, Django, Selenium.
 - Areas of Expertise: Math and Python.
